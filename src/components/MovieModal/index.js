@@ -42,7 +42,7 @@ const MovieModal = ({backdrop_path,title,overview,name,release_date,first_air_da
                     />)}
 
                     <div className="modal__content">
-                        <p className="modal__details"><span className="modal__user-perc">{randomPorcentaje()}% for you</span> {release_date ? release_date : first_air_date}</p>
+                        <p className="modal__details"><span className="modal__user-perc">{randomPorcentaje()}% for you &nbsp;</span> {release_date ? release_date : first_air_date}</p>
                         <h2 className="modal__title">{title ? title : name}</h2>
                         <p className="modal__overview">{overview}</p>
                         <p className="modal__overview">Vote Average: {vote_average}</p>
