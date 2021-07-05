@@ -1,0 +1,27 @@
+/* TEAM */
+
+Jack Jona
+https://jackjona.com
+@jackjona123
+From: Canada
+
+/* SITE */
+
+Software (Built With):
+
+    - TMDb API's
+    - React
+    - React Hooks
+    - React Hooks Form
+    - React Router
+    - Redux
+    - Redux Thunk
+    - Redux Saga
+    - Redux Persist
+    - Redux Logger
+    - Reselect
+    - Firebase
+    - SCSS
+    - SwiperJS
+    - Framer Motion
+    - React Icons
