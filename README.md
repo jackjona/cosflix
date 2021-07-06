@@ -5,12 +5,14 @@
 
 <br/>
 
-# Deployment
+# This Is The V2 Branch Of Cosflix and has been deprecated. View The V3 Branch For The Latest Production Build.
+
+## V3 Deployment
 
 - [Live Project](https://cosflix.jackjona.live/)
-https://cosflix.jackjona.live
+  https://cosflix.jackjona.live
 
-## Test credentials
+### Test credentials
 
 > Email: cosflix@example.com<br/>
 > Password: cosflix<br/>
@@ -38,4 +40,3 @@ https://cosflix.jackjona.live
 
 - Logo generated using fontmeme.com
 - Splash page animation forked and customized from [Claudio Bonfati's Codepen](https://codepen.io/claudio_bonfati/pen/mdryxPv)
-
